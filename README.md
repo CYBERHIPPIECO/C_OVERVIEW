@@ -1,3 +1,5 @@
+![](/forest-A4.png)
+
 # CYBERHIPPIE COLLECTIVE
 Digital collaborative workspace for game makers, micro game studio.
 
