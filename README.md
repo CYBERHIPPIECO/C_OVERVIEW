@@ -1,5 +1,7 @@
 ![](/forest-A4.png)
 
+![](/cyberhippie-patreon.png)
+
 # CYBERHIPPIE COLLECTIVE
 Digital collaborative workspace for game makers, micro game studio.
 
